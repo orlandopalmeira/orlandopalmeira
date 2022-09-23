@@ -1,7 +1,9 @@
 ## About me
-📍Braga, Portugal🇵🇹
+📍Braga, Portugal
+<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/>
 
-🎓 Universidade do Minho ([University of Minho](https://www.uminho.pt/EN)) 
+🎓 Universidade do Minho ([University of Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
+
 
 ---
 
