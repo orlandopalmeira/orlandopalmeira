@@ -42,17 +42,21 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Database Management Systems
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-A0522D?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-A22E30?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ### Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-F3740a?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-2477ce?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual%20Studio-69358E?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
