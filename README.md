@@ -29,9 +29,8 @@
 - [Redes de Computadores](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
 
 #### 3rd year 1st semester
-```
-// TODO: ...
-```
+- [Desenvolvimento de Sistemas de Software](https://github.com/orlandopalmeira/Trabalho-DSS-2022-2023)
+- [Sistemas Distribuídos](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
 
 #### 3rd year 2nd semester
 ```
