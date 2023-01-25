@@ -22,6 +22,8 @@
 - [Laboratórios de Informática III](https://github.com/orlandopalmeira/LI3-LEI-2021-2022)
 
 #### 2nd year 2nd semester
+- [Investigação Operacional](https://github.com/orlandopalmeira/Trabalhos-IO-2021-2022)
+
 - [Programação Orientada aos Objetos](https://github.com/orlandopalmeira/Trabalho-POO-2021_2022)
 
 - [Sistemas Operativos](https://github.com/orlandopalmeira/Trabalho-SO-2021_2022)
