@@ -31,6 +31,8 @@
 - [Redes de Computadores](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
 
 #### 3rd year 1st semester
+- [Cálculo de Programas](https://github.com/orlandopalmeira/Trabalho-CP-2022-2023)
+
 - [Comunicações por Computador](https://github.com/orlandopalmeira/Comunicacoes-por-Computador-LEI)
 
 - [Desenvolvimento de Sistemas de Software](https://github.com/orlandopalmeira/Trabalho-DSS-2022-2023)
