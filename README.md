@@ -37,6 +37,8 @@
 
 - [Desenvolvimento de Sistemas de Software](https://github.com/orlandopalmeira/Trabalho-DSS-2022-2023)
 
+- [Inteligência Artificial](https://github.com/orlandopalmeira/Trabalho-Inteligencia-Artificial)
+
 - [Sistemas Distribuídos](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
 
 #### 3rd year 2nd semester
