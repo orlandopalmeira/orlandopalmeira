@@ -39,7 +39,7 @@
 
 - [Inteligência Artificial](https://github.com/orlandopalmeira/Trabalho-Inteligencia-Artificial)
 
-<!-- - [Laboratórios de Informática IV](https://github.com/orlandopalmeira/Trabalho-LI4-2022-2023) -->
+- [Laboratórios de Informática IV](https://github.com/orlandopalmeira/Trabalho-LI4-2022-2023)
 
 - [Sistemas Distribuídos](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
 
