@@ -1,28 +1,28 @@
-## About me
+## Sobre mim (:uk: About me)
 📍Braga, Portugal
 <img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/>
 
-🎓 Studying Software Engineering at University of Minho ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
+🎓 A estudar Engenharia Informática na Universidade do Minho (:uk: Studying Software Engineering at University of Minho) ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
 
 [![LinkedIn badge](https://img.shields.io/badge/-Orlando%20Palmeira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orlando-palmeira-725281225/) <br>
 [![GMAIL Badge](https://img.shields.io/badge/-Orlando%20Palmeira-D9181c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orlandopalmeira51@gmail.com)
 
 ---
 
-### University Projects
+### Projectos realizados na universidade (:uk: University projects)
 
-### Bachelor of Informatics Engineering
+### Licenciatura em Engenharia Informática (:uk: Bachelor of Informatics Engineering)
 
-#### 1st year 1st semester
+#### 1.º Ano 1.º Semestre (:uk: 1st year 1st semester)
 - [Laboratórios de Informática I](https://github.com/orlandopalmeira/LI1-MIEI-2020-2021)
 
-#### 1st year 2nd semester
+#### 1.º Ano 2.º Semestre (:uk: 1st year 2nd semester)
 - [Laboratórios de Informática II](https://github.com/orlandopalmeira/LI2-MIEI-2020-21)
 
-#### 2nd year 1st semester
+#### 2.º Ano 1.º Semestre (:uk: 2nd year 1st semester)
 - [Laboratórios de Informática III](https://github.com/orlandopalmeira/LI3-LEI-2021-2022)
 
-#### 2nd year 2nd semester
+#### 2.º Ano 2.º Semestre (:uk: 2nd year 2nd semester)
 - [Investigação Operacional](https://github.com/orlandopalmeira/Trabalhos-IO-2021-2022)
 
 - [Programação Orientada aos Objetos](https://github.com/orlandopalmeira/Trabalho-POO-2021_2022)
@@ -31,7 +31,7 @@
 
 - [Redes de Computadores](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
 
-#### 3rd year 1st semester
+#### 3.º Ano 1.º Semestre (:uk: 3rd year 1st semester)
 - [Cálculo de Programas](https://github.com/orlandopalmeira/Trabalho-CP-2022-2023)
 
 - [Comunicações por Computador](https://github.com/orlandopalmeira/Comunicacoes-por-Computador-LEI)
@@ -44,29 +44,34 @@
 
 - [Sistemas Distribuídos](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
 
-#### 3rd year 2nd semester
+#### 3.º Ano 1.º Semestre (:uk: 3rd year 2nd semester)
 ```
 // TODO: ...
 ```
 
 ---
 
-### Programming Languages
+### Linguagens de programação (:uk: Programming Languages)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Database Management Systems
+### Sistemas de gestão de bases de dados (:uk: Database Management Systems)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-A0522D?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-A22E30?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+![mongodb](https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### Ambientes de desenvolvimento (:uk: Frameworks)
+![node](https://img.shields.io/badge/Node.JS-44883E?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 
+### Ferramentas (:uk: Tools)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-F3740a?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-2477ce?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
