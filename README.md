@@ -14,35 +14,35 @@
 ### Licenciatura em Engenharia Informática (:uk: Bachelor of Informatics Engineering)
 
 #### 1.º Ano 1.º Semestre (:uk: 1st year 1st semester)
-- [Laboratórios de Informática I](https://github.com/orlandopalmeira/LI1-MIEI-2020-2021)
+- [Laboratórios de Informática I (:uk: Informatics Laboratories I)](https://github.com/orlandopalmeira/LI1-MIEI-2020-2021)
 
 #### 1.º Ano 2.º Semestre (:uk: 1st year 2nd semester)
-- [Laboratórios de Informática II](https://github.com/orlandopalmeira/LI2-MIEI-2020-21)
+- [Laboratórios de Informática II (:uk: Informatics Laboratories II)](https://github.com/orlandopalmeira/LI2-MIEI-2020-21)
 
 #### 2.º Ano 1.º Semestre (:uk: 2nd year 1st semester)
-- [Laboratórios de Informática III](https://github.com/orlandopalmeira/LI3-LEI-2021-2022)
+- [Laboratórios de Informática III  (:uk: Informatics Laboratories III)](https://github.com/orlandopalmeira/LI3-LEI-2021-2022)
 
 #### 2.º Ano 2.º Semestre (:uk: 2nd year 2nd semester)
-- [Investigação Operacional](https://github.com/orlandopalmeira/Trabalhos-IO-2021-2022)
+- [Investigação Operacional (:uk: Operational Research)](https://github.com/orlandopalmeira/Trabalhos-IO-2021-2022)
 
-- [Programação Orientada aos Objetos](https://github.com/orlandopalmeira/Trabalho-POO-2021_2022)
+- [Programação Orientada aos Objetos (:uk: Object Oriented Programming)](https://github.com/orlandopalmeira/Trabalho-POO-2021_2022)
 
-- [Sistemas Operativos](https://github.com/orlandopalmeira/Trabalho-SO-2021_2022)
+- [Sistemas Operativos (:uk: Operating Systems)](https://github.com/orlandopalmeira/Trabalho-SO-2021_2022)
 
-- [Redes de Computadores](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
+- [Redes de Computadores (:uk: Operational Research)](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
 
 #### 3.º Ano 1.º Semestre (:uk: 3rd year 1st semester)
-- [Cálculo de Programas](https://github.com/orlandopalmeira/Trabalho-CP-2022-2023)
+- [Cálculo de Programas (:uk: Program Design by Calculation)](https://github.com/orlandopalmeira/Trabalho-CP-2022-2023)
 
-- [Comunicações por Computador](https://github.com/orlandopalmeira/Comunicacoes-por-Computador-LEI)
+- [Comunicações por Computador (:uk: Computer Communications)](https://github.com/orlandopalmeira/Comunicacoes-por-Computador-LEI)
 
-- [Desenvolvimento de Sistemas de Software](https://github.com/orlandopalmeira/Trabalho-DSS-2022-2023)
+- [Desenvolvimento de Sistemas de Software (:uk: Software Systems Development)](https://github.com/orlandopalmeira/Trabalho-DSS-2022-2023)
 
-- [Inteligência Artificial](https://github.com/orlandopalmeira/Trabalho-Inteligencia-Artificial)
+- [Inteligência Artificial (:uk: Artificial Intelligence)](https://github.com/orlandopalmeira/Trabalho-Inteligencia-Artificial)
 
-- [Laboratórios de Informática IV](https://github.com/orlandopalmeira/Trabalho-LI4-2022-2023)
+- [Laboratórios de Informática IV (:uk: Informatics Laboratories IV)](https://github.com/orlandopalmeira/Trabalho-LI4-2022-2023)
 
-- [Sistemas Distribuídos](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
+- [Sistemas Distribuídos (:uk: Distributed Systems)](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
 
 #### 3.º Ano 1.º Semestre (:uk: 3rd year 2nd semester)
 ```
