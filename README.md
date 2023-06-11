@@ -25,7 +25,7 @@
 #### 2.º Ano 2.º Semestre (:uk: 2nd year 2nd semester)
 - [Investigação Operacional (:uk: Operational Research)](https://github.com/orlandopalmeira/Trabalhos-IO-2021-2022)
 
-- [Programação Orientada aos Objetos (:uk: Object Oriented Programming)](https://github.com/orlandopalmeira/Trabalho-POO-2021_2022)
+- [Programação Orientada aos Objectos (:uk: Object Oriented Programming)](https://github.com/orlandopalmeira/Trabalho-POO-2021_2022)
 
 - [Sistemas Operativos (:uk: Operating Systems)](https://github.com/orlandopalmeira/Trabalho-SO-2021_2022)
 
