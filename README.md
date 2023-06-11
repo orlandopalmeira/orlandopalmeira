@@ -2,7 +2,7 @@
 📍Braga, Portugal
 <img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/>
 
-🎓 A estudar Engenharia Informática na Universidade do Minho (:uk: Studying Software Engineering at University of Minho) ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
+🎓 A estudar Engenharia Informática na Universidade do Minho (:uk: Studying Informatics Engineering at University of Minho) ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
 
 [![LinkedIn badge](https://img.shields.io/badge/-Orlando%20Palmeira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orlando-palmeira-725281225/) <br>
 [![GMAIL Badge](https://img.shields.io/badge/-OrlandoPalmeira51@gmail.com-D9181c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orlandopalmeira51@gmail.com)
