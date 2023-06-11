@@ -5,7 +5,7 @@
 🎓 A estudar Engenharia Informática na Universidade do Minho (:uk: Studying Software Engineering at University of Minho) ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
 
 [![LinkedIn badge](https://img.shields.io/badge/-Orlando%20Palmeira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orlando-palmeira-725281225/) <br>
-[![GMAIL Badge](https://img.shields.io/badge/-Orlando%20Palmeira-D9181c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orlandopalmeira51@gmail.com)
+[![GMAIL Badge](https://img.shields.io/badge/-OrlandoPalmeira51@gmail.com-D9181c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orlandopalmeira51@gmail.com)
 
 ---
 
