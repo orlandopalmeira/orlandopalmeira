@@ -29,7 +29,7 @@
 
 - [Sistemas Operativos (:uk: Operating Systems)](https://github.com/orlandopalmeira/Trabalho-SO-2021_2022)
 
-- [Redes de Computadores (:uk: Operational Research)](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
+- [Redes de Computadores (:uk: Computer Networks)](https://github.com/orlandopalmeira/Redes-de-Computadores-LEI)
 
 #### 3.º Ano 1.º Semestre (:uk: 3rd year 1st semester)
 - [Cálculo de Programas (:uk: Program Design by Calculation)](https://github.com/orlandopalmeira/Trabalho-CP-2022-2023)
