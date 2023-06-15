@@ -45,6 +45,7 @@
 - [Sistemas Distribuídos (:uk: Distributed Systems)](https://github.com/orlandopalmeira/Trabalho-SD-2022-2023)
 
 #### 3.º Ano 1.º Semestre (:uk: 3rd year 2nd semester)
+- [Aprendizagem e Decisão Inteligentes (:uk: Intelligent Learning and Decision Making)](https://github.com/orlandopalmeira/Trabalho-ADI-2022-2023)
 - [Computação Gráfica (:uk: Computer Graphics)](https://github.com/orlandopalmeira/Trabalho-CG-2022-2023)
 
 ---
