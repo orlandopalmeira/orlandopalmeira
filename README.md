@@ -49,6 +49,7 @@
 
 - [Computação Gráfica (:uk: Computer Graphics)](https://github.com/orlandopalmeira/Trabalho-CG-2022-2023)
 
+- [Processamento de Linguagens (:uk: Language Processing)](https://github.com/orlandopalmeira/Trabalho-PL-2022-2023)
 ---
 
 ### Linguagens de programação (:uk: Programming Languages)
