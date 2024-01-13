@@ -53,6 +53,11 @@
 
 - [Engenharia _Web_ (:uk: Web Engineering)](https://github.com/orlandopalmeira/ENGWEB2023-Projeto)
 
+### Mestrado em Engenharia Informática (:uk: Master in Informatics Engineering)
+#### 1.º Ano 1.º Semestre (:uk: 1st year 1st semester)
+- [Aplicações e Serviços de Computação em Nuvem (:uk: Cloud Computing Applications and Services)](https://github.com/orlandopalmeira/Trabalho-ASCN-2023-2024)
+
+
 ### Linguagens de programação (:uk: Programming Languages)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
