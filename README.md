@@ -56,8 +56,15 @@
 ### Mestrado em Engenharia Informática (:uk: Master in Informatics Engineering)
 #### 1.º Ano 1.º Semestre (:uk: 1st year 1st semester)
 - [Aplicações e Serviços de Computação em Nuvem (:uk: Cloud Computing Applications and Services)](https://github.com/orlandopalmeira/Trabalho-ASCN-2023-2024)
-- [Requisitos e Arquiteturas de Software (:uk: Software Requirements and Architectures)](https://github.com/orlandopalmeira/Trabalho-RAS-2023-2024)
 
+- [Requisitos e Arquiteturas de Software (:uk: Software Requirements and Architectures)](https://github.com/orlandopalmeira/Trabalho-RAS-2023-2024)
+<!-- 
+- [Dados e Aprendizagem Automática (:uk: Data and Machine Learning)](https://github.com/orlandopalmeira/Trabalho-DAA-2023-2024)
+
+- [Engenharia de Serviços em Rede (:uk: Network Services Engineering)](https://github.com/orlandopalmeira/Trabalho-ESR-2023-2024)
+
+- [Computação Paralela (:uk: Parallel Computing)](https://github.com/orlandopalmeira/Trabalho-CP-2023-2024)
+-->
 
 ### Linguagens de programação (:uk: Programming Languages)
 
