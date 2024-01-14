@@ -94,6 +94,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=White)
 ![Vagrant](https://img.shields.io/badge/Vagrant-0078D4?style=for-the-badge&logo=vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandopalmeira&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less)
