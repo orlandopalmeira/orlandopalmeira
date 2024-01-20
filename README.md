@@ -58,12 +58,12 @@
 - [Aplicações e Serviços de Computação em Nuvem (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Cloud Computing Applications and Services)](https://github.com/orlandopalmeira/Trabalho-ASCN-2023-2024)
 
 - [Requisitos e Arquiteturas de Software (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Software Requirements and Architectures)](https://github.com/orlandopalmeira/Trabalho-RAS-2023-2024)
+
+- [Computação Paralela (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Parallel Computing)](https://github.com/orlandopalmeira/Trabalho-CP-2023-2024)
 <!-- 
 - [Dados e Aprendizagem Automática (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Data and Machine Learning)](https://github.com/orlandopalmeira/Trabalho-DAA-2023-2024)
 
 - [Engenharia de Serviços em Rede (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Network Services Engineering)](https://github.com/orlandopalmeira/Trabalho-ESR-2023-2024)
-
-- [Computação Paralela (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Parallel Computing)](https://github.com/orlandopalmeira/Trabalho-CP-2023-2024)
 -->
 
 ### Linguagens de programação (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Programming Languages)
