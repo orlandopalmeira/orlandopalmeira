@@ -1,4 +1,4 @@
-## Sobre mim (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> About me)
+# Sobre mim (<img height=18 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> About me)
 📍Braga, Portugal
 <img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/>
 
@@ -9,7 +9,7 @@
 
 ---
 
-### Projectos realizados na universidade (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> University projects)
+## Projectos realizados na universidade (<img height=16 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> University projects)
 
 ### Licenciatura em Engenharia Informática (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Bachelor of Informatics Engineering)
 
