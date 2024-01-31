@@ -5,7 +5,7 @@
 🎓 Licenciado em Engenharia Informática. Actualmente a frequentar o Mestrado em Engenharia Informática na Universidade do Minho. (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Graduated in Informatics Engineering. Currently attending a Master's degree in Informatics Engineering at University of Minho.) ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
 
 [![LinkedIn badge](https://img.shields.io/badge/-Orlando%20Palmeira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orlando-palmeira-725281225/) 
-
+[![Email badge](https://img.shields.io/badge/-orlandopalmeira51-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:orlandopalmeira51@gmail.com)
 ---
 
 ## Projectos realizados na universidade (<img height=16 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> University projects)
