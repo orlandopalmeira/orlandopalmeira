@@ -96,6 +96,6 @@
 ![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandopalmeira&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandopalmeira&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less,jupyter%20notebook)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandopalmeira&theme=codeSTACKr&count_private=true&hide=contribs&hide_border=true)
