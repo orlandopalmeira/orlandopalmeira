@@ -68,7 +68,7 @@
 
 - [Arquitecturas Aplicacionais (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Application Architectures)](https://github.com/orlandopalmeira/Trabalho-AA-SIC-2023-2024)
 
-- [Sistemas Interactivos Confiáveis (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Reliable interactive systems)](https://github.com/orlandopalmeira/Trabalho-AA-SIC-2023-2024)
+- [Sistemas Interactivos Confiáveis (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> High-Assurance Interactive Systems)](https://github.com/orlandopalmeira/Trabalho-AA-SIC-2023-2024)
 
 - [Agentes e Sistemas Multi-Agente (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Agents and Multiagent Systems)](https://github.com/orlandopalmeira/Trabalho-ASM-2023-2024)
 
