@@ -4,6 +4,8 @@
 
 🎓 Licenciado em Engenharia Informática. Actualmente a frequentar o Mestrado em Engenharia Informática na Universidade do Minho. (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Graduated in Informatics Engineering. Currently attending a Master's degree in Informatics Engineering at University of Minho.) ([Universidade do Minho](https://www.uminho.pt/EN) <img height=14 src="https://i.ibb.co/jz5BPr7/UM.png"/>)
 
+👨‍💻 Actualmente a trabalhar como Engenheiro Informático no DTx - Digital Transformation Colab (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Currently working as a Software Engineer at DTx - Digital Transformation Colab)
+
 [![LinkedIn badge](https://img.shields.io/badge/-Orlando%20Palmeira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orlando-palmeira-725281225/) 
 ---
 
