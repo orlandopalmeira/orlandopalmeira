@@ -78,6 +78,11 @@
 
 - [Sensorização e Ambiente (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Ambient Intelligence)](https://github.com/orlandopalmeira/Trabalho-SA-2023-2024)
 
+#### 2.º Ano (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> 2nd year)
+
+- [Projeto de Informática (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> 	Informatics Project)](https://github.com/orlandopalmeira/Projeto-de-Informatica-2024-2025)
+
+
 ### Linguagens de programação (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Programming Languages)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
