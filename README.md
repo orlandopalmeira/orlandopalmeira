@@ -117,6 +117,6 @@
 ![Spark](https://img.shields.io/badge/Apache%20Spark-FFA500?style=for-the-badge&logo=apachespark&logoColor=white)
 ---
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandopalmeira&theme=codeSTACKr&layout=compact&hide_border=true&count_private=true&hide=html,css,tex,scss,less,jupyter%20notebook)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandopalmeira&theme=codeSTACKr&layout=compact&hide_border=true&count_private=true&hide=html,css,tex,scss,less,jupyter%20notebook,perl)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandopalmeira&theme=codeSTACKr&count_private=true&hide=contribs&hide_border=true)
