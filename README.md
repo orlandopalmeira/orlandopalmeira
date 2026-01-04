@@ -93,6 +93,8 @@
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+![GO](https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white)
+![TS](https://img.shields.io/badge/Typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Sistemas de gestão de bases de dados (<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"/> Database Management Systems)
 
